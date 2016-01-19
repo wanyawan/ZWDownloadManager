@@ -7,4 +7,4 @@ Packing AFURLSessionManager to download files. Use ZWDownloadManager you create 
 ###Before run the Demo,please run`pod install`
 ###请在使用前执行`pod install` 
 
-![Alt text](/path/to/img.jpg)
+![Alt text](https://github.com/wanyawan/ZWDownloadManager/blob/master/image01.png)
